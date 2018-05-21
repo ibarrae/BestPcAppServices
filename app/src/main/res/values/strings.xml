@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Servicios BestPC</string>
+    <string name="activate_gps_message">
+        El uso de GPS y conexion a internet es abligatorio.\n\nActive esos servicios y a continuación cierre este mensaje.
+    </string>
+    <string name="reminder">Recordatorio</string>
+    <string name="user_notification">Verificando GPS e internet</string>
+    <string name="notification_title">Verificando servicios</string>
+    <string name="services_error">Aún no ha activado los servicios solicitados</string>
+    <string name="services_success">Gracias por activar los servicios</string>
+    <string name="close_dialog">Cerrar ventana</string>
+    <string name="initial_msg">Bienvenido a la aplicación de gestión de servicios.</string>
+    <string name="permission_not_granted">Debe permitir el permiso solicitado para que la aplicación funcione correctamente.</string>
+    <string name="permission_message">Conceder permisos.</string>
+</resources>
